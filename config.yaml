@@ -14,8 +14,8 @@ params:
   portfolio:
     columns:
       desktop:
-        nature: 4
-        archive: 6
+        electronics: 4
+        design: 6
         people: 2
         default: 3
       mobile:
@@ -62,8 +62,8 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: electronics
+      url: /tags/electronics/
       weight: 2
     - name: nature
       url: /tags/nature/

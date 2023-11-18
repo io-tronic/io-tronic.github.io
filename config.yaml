@@ -1,5 +1,5 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://iotenino.com
+title: Vittoria Amalia Tenino # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
@@ -25,15 +25,15 @@ params:
   socials:
     # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:vittenino@gmail.com'
       landing: true
     - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
+      url: 'https://github.com/io-tronic'
       landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
+    # - icon: 'fab fa-instagram fa-lg'
+    #   url: 'https://instagram.bora.sh/eternity'
+    # - icon: 'fab fa-linkedin-in fa-lg'
+    #   url: 'https://linkedin.bora.sh/in/eternity'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
   specialPages:
     - work
@@ -41,7 +41,7 @@ params:
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
-  disableRadius: false
+  disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false
 

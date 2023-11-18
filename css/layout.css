@@ -16,16 +16,18 @@
 
 }
 
-.grid {
-  display: grid;
-  
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
   margin: 0 15px;
 
   gap: 10px;
-  width: auto;
-  grid-template-columns: 1fr;
-}
+  /* width: auto; */
 
+}
+/* 
 .newscol {grid-column-end: span 1;}
 
 @media (min-width:1000px) {
@@ -35,4 +37,4 @@
 @media (min-width: 1436px) {
   .grid {grid-template-columns: minmax(436px,25%) 2fr 3fr;}
   .newscol {grid-column-end: span 1;}
-}
+} */

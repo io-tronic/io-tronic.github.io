@@ -1,6 +1,8 @@
 /* WIDGETS */
 
 .widget {
+  flex: 1 1 200px; /* flex-grow | flex-shrink | flex-basis */
+  
   background-color: white;
   border: var(--border) solid black;
   border-radius: 25px;
@@ -8,7 +10,10 @@
   margin: 0 0 10px 0;
 
   height: auto;
+  /* height: auto; */
   left: 0px;
+
+  
 
 }
 

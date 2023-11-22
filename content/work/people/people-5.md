@@ -10,6 +10,7 @@ tags:
 - work # homepage
 - archive # all posts
 - people
+- blue
 ---
 
 ## Markdown
@@ -23,6 +24,8 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum 
 ### Subtitle
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+
+![image](https://source.unsplash.com/random?people&111)
 
 Some list
 

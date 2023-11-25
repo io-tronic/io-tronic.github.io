@@ -50,6 +50,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    style: algol
 
 taxonomies:
   tag: tags

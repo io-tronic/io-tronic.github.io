@@ -31,6 +31,30 @@ hideDate: true
 
 - Shows **exif** if it exists.
 
+|                                                                  | Interview 1 | Interview 2 | Interview 3 |
+|------------------------------------------------------------------|-------------|-------------|-------------|
+| This user uses/wants to use spin because:                        |             |             |             |
+| A. Faster (running late, moving around campus)                   |             |             |             |
+| B. Traveling far distances on campus (e.g. 7th college)          |             |             |             |
+| C. Inexpensive way to get around                                 |             |             |             |
+| D. Reliable way to get around                                    |             |             |             |
+| E. Fun/Recreation                                                |             |             |             |
+| F. Other (list)                                                  |             |             |             |
+| Which failures of the App’s design were experienced by this user |             |             |             |
+| A. Inaccurate or confusing scooter location on map               |             |             |             |
+| B. Unclear battery levels when activating scooter                |             |             |             |
+| C. Unable to find scooter parking                                |             |             |             |
+| D. Connection issues while parking scooter (need to reload map)  |             |             |             |
+| E. Ran out of battery                                            |             |             |             |
+| F. Physical issue with scooter                                   |             |             |             |
+| G. Navigation issues                                             |             |             |             |
+| H. Unclear cost                                                  |             |             |             |
+| I. Lag                                                           |             |             |             |
+| J. Accident/ Encounter with cars                                 |             |             |             |
+| K. Physical or performance issues with scooter                   |             |             |             |
+| A. Inaccurate or confusing scooter location on map               |             |             |             |
+| B. Unclear battery levels when activating scooter                |             |             |             |
+
 ### Installation
 
 1. Install Hugo.

@@ -16,7 +16,22 @@ multipleColumn: true
 url: ""
 hideTitle: false
 hideExif: true
-hideDate: false
+hideDate: true
 ---
 
-![CAD of the final design](/images/joopyter/cad.jpg)
+### Datadex Cyberdeck Design Contest
+###### *Design and build an alternative form-factor personal computing device for data retrieval*
+---
+
+The Joopyter personal terminal integrates a thermal printer, display, and raspberry pi zero into a foldable frame.
+Much of the design is inspired by tactility. 
+Bringing a thermal printer into the loop gives you immediate feedback on what your creations look like in the world.
+It's a process that 
+
+![Screenshot from Hackaday](/images/joopyter/Hackaday-screenshot.png "Featured in Hackaday")
+
+![Progression from napkin sketch to initial cad](/images/joopyter/progression.png "Progression from napkin sketch to initial cad")
+
+![Constructing the keyboard electronics](/images/joopyter/keeb2.jpg "Constructing the keyboard electronics")
+
+![Frustrated man sitting at the terminal](/images/joopyter/frustrated.jpg "Product images for competition")

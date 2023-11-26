@@ -1,0 +1,14 @@
+{
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "tags",
+      "path": "[[workspace]]/content/tags"
+    },
+    {
+      "title": "work",
+      "path": "[[workspace]]/content/work"
+    }
+  ],
+  "[markdown]": {
+  }
+}

@@ -6,10 +6,10 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  logo: logo.png # todo: add your custom logo to static/
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  logo: logo.png
+  subtitle: Hi, I'm Vittoria Amalia Tenino. Welcome to my Portfolio
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Vittoria Amalia Tenino # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
@@ -38,8 +38,8 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  disableWelcomePageBackground: false # disables the background image on the homepage
+  bypassWelcomePage: true # redirects "/" to "homepage" when it's true.
+  disableWelcomePageBackground: true # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
   disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
@@ -64,15 +64,18 @@ menu:
     - name: work
       url: /work/
       weight: 1
+    - name: prototyping
+      url: /tags/prototyping/
+      weight: 2
     - name: electronics
       url: /tags/electronics/
-      weight: 2
-    - name: nature
-      url: /tags/nature/
       weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
+    - name: cad
+      url: /tags/cad/
+      weight: 3
+    - name: product design
+      url: /tags/product-design/
+      weight: 3
     - name: about
       url: /about/
       weight: 5

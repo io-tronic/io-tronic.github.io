@@ -1,0 +1,79 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Weight",
+          "name": "weight",
+          "type": "number"
+        },
+        {
+          "title": "Preview Images",
+          "name": "images",
+          "type": "image",
+          "isPreviewImage": true,
+          "multiple": true
+        },
+        {
+          "title": "Multiple Image Columns",
+          "name": "multipleColumn",
+          "type": "boolean"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "string"
+        },
+        {
+          "title": "Hide Title",
+          "name": "hideTitle",
+          "type": "boolean"
+        },
+        {
+          "title": "Hide Exif",
+          "name": "hideExif",
+          "type": "boolean"
+        },
+        {
+          "title": "Hide Date",
+          "name": "hideDate",
+          "type": "boolean"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.preview.host": "http://localhost:1313"
+}

@@ -1,16 +1,18 @@
 ---
 weight: 5
 images:
-- https://source.unsplash.com/random?people&15372
-- https://source.unsplash.com/random?people&111
-title: people 5
+  - https://source.unsplash.com/random?people&15372
+  - https://source.unsplash.com/random?people&111
+title: Template file
 multipleColumn: true
 date: 2022-07-23
 tags:
-- work # homepage
-- archive # all posts
-- people
-- blue
+  - work
+  - design
+draft: false
+hideTitle: false
+hideExif: true
+hideDate: false
 ---
 
 ## Markdown

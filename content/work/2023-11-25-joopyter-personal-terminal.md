@@ -19,14 +19,24 @@ hideExif: true
 hideDate: true
 ---
 
+{{% flex "mt-5 flex-wrap" %}}
+{{%column "flex: 1 0 300px"%}}
+Much of my work is inspired by tactility; I like to enable a process of making where touch is elevated to the same level as sight in the process of HMI. This is a goal I'm yet to reach, but the Joopyter is a step in that direction. It's the third such alternative form-factor portable computer that I've designed and built.
+{{%/column%}}
+{{%column "flex: 1 0 400px"%}}![Screenshot from Hackaday](/images/joopyter/Hackaday-screenshot.png "Featured in Hackaday")
+{{%/column%}}
+
+{{%/flex%}}
+
+---
 ### Datadex Cyberdeck Design Contest
 ###### *Design and build an alternative form-factor personal computing device for data retrieval*
 ---
 
-The Joopyter personal terminal integrates a thermal printer, display, and raspberry pi zero into a foldable frame.
-Much of the design is inspired by tactility. 
-Bringing a thermal printer into the loop gives you immediate feedback on what your creations look like in the world.
-It's a process that 
+
+The Joopyter Personal Terminal integrates a thermal printer, display, and Raspberry Pi zero into a foldable frame.
+Bringing a thermal printer into the loop gives you immediate feedback on what your creations look like in the world. It's a diegetic experience of making: bringing physical reality and the on-screen world just a step closer.
+
 
 ![Screenshot from Hackaday](/images/joopyter/Hackaday-screenshot.png "Featured in Hackaday")
 

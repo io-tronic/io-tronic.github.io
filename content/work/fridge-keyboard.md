@@ -2,7 +2,7 @@
 title: Fridge Keyboard
 description: ""
 date: 2023-11-27T03:21:50.473Z
-draft: true
+draft: false
 tags:
   - cad
   - product-design

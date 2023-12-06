@@ -2,7 +2,7 @@
 title: Joopyter Personal Terminal
 description: ""
 date: 2023-11-26T02:51:22.450Z
-draft: true
+draft: false
 tags:
   - product-design
   - raspberry-pi

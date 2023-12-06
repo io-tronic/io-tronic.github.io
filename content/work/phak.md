@@ -2,7 +2,7 @@
 title: "PHAK: Programmable HAptic Knob (WIP)"
 description: ""
 date: 2023-11-26T02:51:22.450Z
-draft: true
+draft: false
 tags:
   - electronics
   - product-design
@@ -24,8 +24,6 @@ hideDate: true
 Throughout history, the primary competency of musicians was tactile. The act of playing an instrument was felt, learned as a type of muscle memory. A concert was an interaction not just between the artist and the music, but between the reactions of the instrument and the touch of the hands. 
 
 Most electronic instruments are not like this. Modal interfaces, passive buttons, and non-reactive sliders cannot be learned through tactility.
-
-    TODO: PROTOTYPE IMAGE
 
 {{% flex "mt-5 flex-wrap" %}}
 {{%column "flex: 1 1 200px"%}}

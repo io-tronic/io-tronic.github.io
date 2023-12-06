@@ -69,6 +69,11 @@
           "title": "Hide Date",
           "name": "hideDate",
           "type": "boolean"
+        },
+        {
+          "title": "Main Image",
+          "name": "mainImage",
+          "type": "image"
         }
       ]
     }

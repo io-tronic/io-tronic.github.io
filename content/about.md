@@ -1,129 +1,61 @@
 ---
-images:
-- /images/about.png
-title: about
-url: about
-hideTitle: true
+title: Vittoria Amalia Tenino
+url: resume
+hideTitle: false
 hideExif: true
 hideDate: true
 ---
 
-<div align="center">
-	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
-	</p>
-	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
-	</p>
-</div>
+#
 
-### Features
+**520 221 6389  //  vittenino@gmail.com**
+## Summary
+Design and Cognitive Science student with five years of experience teaching and creating industrial, product, and graphic design, as well as rapid prototyping and mechanical and electrical engineering. I’m ready to apply my multi-disciplinary approach to actualize creative solutions for engineering and design problems.
+## Education
+***University of California, San Diego, (2021 - 2025)***
 
-- **Configurable** features.
+- Cognitive Science with a Specialization in Design and Interaction (B.S.)
 
-- **Multiple images** support.
+- Speculative Design (B.A.)
 
-- Clean, fresh, **minimalist**.
+- Engineering Mechanics Minor (pursuing California “Engineer In Training" License)
 
-- Integrated **lazy load**.
+## Work Experience
+***Supervisor, EnVision Maker Studio*** (2021 - present)
 
-- Automatically creates **resized** thumbnails.
+- Mentored a wide variety of student prototyping projects in mechanical and electrical engineering.
+- Taught microcontrollers, Raspberry Pi and a variety of prototyping manufacturing techniques.
+- Led a team of six to redesign, upgrade, and maintain the front-end and back-end of a networked server system used daily by hundreds of students.
+- Designed, executed, and promoted a new creative lab for fiber arts.
 
-- Shows **exif** if it exists.
+***Technician and Data Analyst, Office of Innovation and Commercialization @ UCSD*** (2022 - 2023)
 
-|                                                                  | Interview 1 | Interview 2 | Interview 3 |
-|------------------------------------------------------------------|-------------|-------------|-------------|
-| This user uses/wants to use spin because:                        |             |             |             |
-| A. Faster (running late, moving around campus)                   |             |             |             |
-| B. Traveling far distances on campus (e.g. 7th college)          |             |             |             |
-| C. Inexpensive way to get around                                 |             |             |             |
-| D. Reliable way to get around                                    |             |             |             |
-| E. Fun/Recreation                                                |             |             |             |
-| F. Other (list)                                                  |             |             |             |
-| Which failures of the App’s design were experienced by this user |             |             |             |
-| A. Inaccurate or confusing scooter location on map               |             |             |             |
-| B. Unclear battery levels when activating scooter                |             |             |             |
-| C. Unable to find scooter parking                                |             |             |             |
-| D. Connection issues while parking scooter (need to reload map)  |             |             |             |
-| E. Ran out of battery                                            |             |             |             |
-| F. Physical issue with scooter                                   |             |             |             |
-| G. Navigation issues                                             |             |             |             |
-| H. Unclear cost                                                  |             |             |             |
-| I. Lag                                                           |             |             |             |
-| J. Accident/ Encounter with cars                                 |             |             |             |
-| K. Physical or performance issues with scooter                   |             |             |             |
-| A. Inaccurate or confusing scooter location on map               |             |             |             |
-| B. Unclear battery levels when activating scooter                |             |             |             |
+- Provided technical manufacturing and prototyping advising to a variety of student startups across many engineering disciplines.
+- Designed, budgeted for, and executed a new prototyping lab space used daily by tens of startups. 
+- Analyzed and processed statistical data relevant to usage, demographics, and UX for UCSD.
 
-### Installation
+***Marketing Assistant, KE Hospitality Group*** (2018 - present)
 
-1. Install Hugo.
+- Worked with ownership to produce architectural elevations for new construction projects.
+- Created graphic design work for menus, signage, logos, T-shirts, furniture design.
+- Used QuickBooks software to organize financial records and maintain bookkeeping.
 
-2. Create a new site.  
-	```shell
-	hugo new site yoursite
-	```  
-	```shell
-	cd yoursite
-	```  
+***Office Assistant, Law Offices of James P.F. Egbert PLLC***  (2020 -** 2021)
 
-3. Remove default config file.  
-	```shell
-	rm hugo.toml
-	```
-	If you use an older version of Hugo ([< v0.110.0](https://github.com/gohugoio/hugo/issues/8979)), your config might be called differently:
-	```shell
-	rm config.toml
-	```
+- Created a new system of scanning and organizing files for the firm’s clients.
+- Worked independently; met firm’s goals; Responsible for maintaining client confidentiality.
+## Skills, Proficiencies, and Awards
+***Awards:*** First place in the Cyberdeck.cafe Eco-Deck Design Award for designing and building an alternative form-factor computing device.
 
-4. Submodule the theme.  
-	```shell
-	git init
-	```  
-	```shell
-	git submodule add --depth=1 https://github.com/boratanrikulu/eternity.git themes/eternity
-	```  
+***CAD Design:*** Experienced with KiCAD EDA, Altium Designer, Fusion 360, Onshape, Inventor, and Solidworks.
 
-5. Create config.yaml;  
-	Apply (1) or (2).  
+***Fabrication:***  Experienced with sewing, laser cutting, 3d printing (SLA, FDM), soldering (including rework), PCB manufacturing, CNC machining.
 
-	1. Use the example project (recommended).  
-		Copy all files from the example project.  
-		```shell
-		cp -r ./themes/eternity/example/eternity.bora.sh/* .
-		```  
-	2. Use empty content.  
-		Copy example config.  
-		```shell
-		cp ./themes/eternity/config.example.yaml ./config.yaml
-		```  
-6. Start the server.
-	```shell
-	hugo serve --port 1313
-	```  
+***Graphic Design:*** Inkscape, Adobe Illustrator, Krita, Canva, 
 
-7. Go to [localhost:1313](http://localhost:1313).
+***Programming:*** Java (Android), Python, Micropython, Python, Arduino, Git
 
+***Microcontrollers/SBC:*** Raspberry Pi, RP2040, ESP32, ATMEGA32u4
 
-### Upgrade
+***System Administration:*** General Networking, Linux (Debian Server, Raspberry Pi OS), Windows, Mac, dd-wrt
 
-To get last updates, just git pull.
-```shell
-cd themes/eternity && git pull && cd -
-```
-
-### Usage of Posts
-
-[**Go to posts documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/posts.md)
-
-### Usage of Config.yaml
-
-[**Go to config documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/config.md)
-
-### Editing Style
-
-[**Go to style documentation.**](https://github.com/boratanrikulu/eternity/tree/main/doc/style.md)
-
-### Contact
-
-If you need to contact us for any reason; create an [**issue**](https://github.com/boratanrikulu/eternity/issues/new) or send a mail to [**eternity@bora.sh**](mailto:eternity@bora.sh).

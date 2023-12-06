@@ -52,6 +52,10 @@ markup:
       unsafe: true
   highlight:
     style: algol
+  parser:
+      attribute:
+        block: true
+        title: true
 
 taxonomies:
   tag: tags
@@ -77,5 +81,5 @@ menu:
       url: /tags/product-design/
       weight: 3
     - name: about
-      url: /about/
+      url: /resume/
       weight: 5

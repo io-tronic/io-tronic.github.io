@@ -3,26 +3,10 @@ title: work
 url: work
 ---
 
-<div align="center">
-	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
-	</p>
-	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
-	</p>
-</div>
 
-#### Features
+<h3 style="font-weight:400">Hi! I'm <em>Vittoria Amalia Tenino,</em></h3>
 
-- **Configurable** features.
+and I'm a multidisciplinary Design and Cognitive Science student with five years of experience teaching and creating ***industrial***, ***product***, and ***graphic design***, as well as ***rapid prototyping*** and ***mechanical*** and ***electrical engineering***.
 
-- **Multiple images** support.
 
-- Clean, fresh, **minimalist**.
-
-- Integrated **lazy load**.
-
-- Automatically creates **resized** thumbnails.
-
-- Shows **exif** if it exists.
-
+<h5 style="font-weight:400">Here is some of my featured work:</h5>
